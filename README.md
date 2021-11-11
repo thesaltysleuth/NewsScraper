@@ -18,9 +18,9 @@ LINK : https://colab.research.google.com/drive/1ugF0nldfTmjK503dye8e5AOVKgCAN9n4
 ##### 4. TOI : Same as NDTV. Only from the Times of India website.
 ##### 5. BBC News (useful) : Displays summaries of news articles from all hot and recent topics from the BBC website. Only enter the maximum number of articles you want to see in the variable 'max_articles'.
 
-##**Each news summary displays the following -**
-####*Original Link: Visit this link to read the whole article*
-####*Author: Author of the article*
-####*Date Published: The publish date of the article*
-####*Image: Open this link to get a related image to the article*
-####*Summary: A summary of the article in 80 words of less*
+## **Each news summary displays the following -**
+#### *Original Link: Visit this link to read the whole article*
+#### *Author: Author of the article*
+#### *Date Published: The publish date of the article*
+#### *Image: Open this link to get a related image to the article*
+#### *Summary: A summary of the article in 80 words of less*
