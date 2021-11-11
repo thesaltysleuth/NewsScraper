@@ -1,6 +1,8 @@
 # NewsScraper
 Python newspaper3k implementation to scrape and summarise news
 
+LINK : https://colab.research.google.com/drive/1ugF0nldfTmjK503dye8e5AOVKgCAN9n4?usp=sharing
+
 # **How To Use :**
 ### The whole script is divided into cells. To execute a cell, press Shift+Enter. 
 ### To start using, click on the first cell under 'Compulsory' (the one containing !pip3...) and execute it. 
